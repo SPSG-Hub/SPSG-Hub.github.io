@@ -1,0 +1,10 @@
+baseURL = 'https://spsg-hub.github.io'
+languageCode = 'en-us'
+title = 'SPSG Hub'
+disablePathToLower = true
+
+[params]
+  BookTheme = 'light'
+  BookSection = 'pages'
+  BookSearch = true
+  BookComments = false
