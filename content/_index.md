@@ -1,6 +1,6 @@
 # Welcome to the SPSG Hub!
 
-*Structured Projects for the Social Good* is an NSF-funded collaboration
+*Scuffolded Projects for the Social Good* is an NSF-funded collaboration
 between Central Connecticut State University and Xavier University. This site
 is where we post resources related to the project.
 
