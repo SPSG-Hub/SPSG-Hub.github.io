@@ -17,8 +17,21 @@ files will restart the server automatically.
 # Content Structure
 
 The main page is `content/_index.md`. The menu on the left is built from
-`content/pages` (the README needs to be expanded here to describe how to have
-nested items on the menu).
+`content/pages`. Each subdirectory of `content/pages` becomes a section in the
+menu, `_index.md` is the content of the section, and other Markdown files in
+the subdirectory become pages nested under that section.
+
+Set `weight` in the Markdown headers to change the ordering of pages in the
+menu.
+
+# Templates
+
+To use templates within Markdown files you must use shortcodes. Create a
+shortcode by creating an HTML file in `layouts/shortcodes`. If you create
+`layouts/shortcodes/template.html` then you would use the shortcode in a
+Markdown file with `{{< template >}}`.
+
+Use `{{< footer >}}` at the bottom of a Markdown file to use the common footer.
 
 # Resources
 

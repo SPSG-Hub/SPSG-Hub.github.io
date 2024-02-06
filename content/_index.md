@@ -10,3 +10,5 @@ is where we post resources related to the project.
 <--->
 ![](/images/NSF_Official_logo_High_Res_1200ppi.png)
 {{< /columns >}}
+
+{{< footer >}}

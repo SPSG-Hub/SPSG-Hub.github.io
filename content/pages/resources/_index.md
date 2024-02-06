@@ -6,3 +6,5 @@ weight: 1
 
 Here you will find resources to help instructors get started working with a
 software studio model and running projects for community partners.
+
+{{< footer >}}
