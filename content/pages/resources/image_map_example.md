@@ -1,6 +1,7 @@
 # Image Map Example
 
 {{< process_outline_image_map >}}
+{{< image_map_resizer >}}
 
 ## Project Proposal
 
