@@ -20,7 +20,7 @@ drawbacks observed with each:
 For institutions that don't have multi-semester sequences suitable for
 SPSG this approach may be the only fit.
 
-### [Continuation with different student team(s) same course]{.underline}
+### Continuation with different student team(s) same course
 
 For this model each semester the new student team must become familiar
 with the project and the partner's project leadership. This is the
@@ -46,7 +46,7 @@ sequence (e.g. Software Engineering I and Software Engineering 2, or
 Software Engineering and Senior Project) there are a number of options
 for supporting a multi-semester project.
 
-### [Continuation with same student team]{.underline}
+### Continuation with same student team
 
 With this approach in the subsequent semester the same student team
 continues working with the same project in the following semester. This
@@ -59,7 +59,7 @@ can lead to either a smaller team in the subsequent semester or adding
 one new member to an existing team that is already up to speed, which
 may lead to poor experience for the new added student.
 
-### [Continuation splitting student teams]{.underline}
+### Continuation splitting student teams
 
 This approach has been used when the initial phase of the project was a
 proof of concept of setting up a foundation for a larger multi-tasked
@@ -72,7 +72,7 @@ the continuing students becoming sources of expertise within the new
 teams. This typically allows for shortening the partner and project
 learning curve.
 
-### [Continuation with different teams]{.underline}
+### Continuation with different teams
 
 A third approach is to have the project continue on with the subsequent
 course in the sequence, but with a different team. With this approach
