@@ -3,7 +3,7 @@ weight: 2
 ---
 
 
-# Instructor's perspective
+# Instructor perspective
 
 This document addresses a number of concerns from the course instructor's point of view: how to run a course with one or multiple projects, what course
 prerequisites need to be there, importance of institutional context and 

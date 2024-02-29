@@ -38,8 +38,7 @@ for different partners. After the first semester, students who worked on
 a given project in the SE course, continue into the SP course. In those
 programs where there is only one course that can host such a project
 (SE), the project can continue in the next offering of the same course
-with new team(s). This is discussed in detail in the [Instructor
-Perspective document.]{.mark} Depending on the project and on the
+with new team(s). This is discussed in detail in the [Instructor Perspective](<../instructor_perspective>) document. Depending on the project and on the
 curriculum structure, the same students may or may not still be actively
 working on the same SE project, however a key role is these students
 remain accessible to answer questions and support the new SE teams in
@@ -48,6 +47,9 @@ student teams, facilitating project continuity and transferring
 knowledge.
 
 ![](/images/timeline.png) 
+
+
+## Project Phases and Continuity
 
 The **Inception** phase occurs before the semester starts and involves
 the instructor working with the project partner to determine project
