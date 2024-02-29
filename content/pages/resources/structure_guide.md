@@ -1,3 +1,7 @@
+---
+weight: 1
+---
+
 # SPSG Structure Guide {#spsg-structure-guide .unnumbered}
 
 ## Overview
@@ -14,6 +18,8 @@ Each project consists of four phases:
 3.  Development, and
 
 4.  Transition.
+
+These four project phases are illustrated below, along with the corresponding project activities and deliverables.
 
 {{< process_outline_image_map >}}
 
@@ -41,7 +47,7 @@ their onboarding process. In this capacity, they engage with new SE
 student teams, facilitating project continuity and transferring
 knowledge.
 
-![](/images/timeline.png)
+![](/images/timeline.png) 
 
 The **Inception** phase occurs before the semester starts and involves
 the instructor working with the project partner to determine project
@@ -106,6 +112,12 @@ extensive *knowledge transfer* documentation including configuration and
 build documents, and c) *near-peer mentoring* where a recent graduate
 who worked on the same project mentors the next team(s).
 
+
+&nbsp;
+
+&nbsp;
+
+
 # SPSG project events and deliverables {#spsg-project-events-and-deliverables .unnumbered}
 
 ## Inception: Project negotiation and proposal
@@ -157,11 +169,16 @@ We recommend including the following elements into the project proposal:
 In our experience, well-rounded project proposals emerge after one or
 more revisions to the initial draft.
 
-**Template:** [SPSG project proposal template.docx]{.underline}
+**Template:** [SPSG project proposal template.docx](</files/templates/SPSG project proposal template.docx>)
 
-**~~Prerequisites~~**
+**Prerequisites:** n/a
 
-**~~Grading rubric~~**
+**Grading rubric:** n/a
+
+
+&nbsp;
+
+
 
 ## Elaboration: Team agreement 
 
@@ -220,11 +237,17 @@ to) the following:
 We encourage the teams to add any other items that they believe may be
 important.
 
-**Template:** [SPSG team agreement template.docx]{.underline}
+**Template:** [SPSG team agreement template.docx](</files/templates/SPSG team agreement template.docx>)
 
 **Prerequisites**
 
 **Grading rubric**
+
+
+
+&nbsp;
+
+
 
 ## Elaboration: Project kick-off
 
@@ -262,11 +285,19 @@ project kick-off meeting. The objectives of this meeting include:
     course syllabus with the project partner. Similarly, the team needs
     to be aware of the partner's schedule.
 
-**Template:** SPSG introductory email template.docx
+**Template:** [SPSG introductory email template.docx](</files/templates/SPSG introductory email template.docx>)
 
 **Prerequisites:** SPSG team agreement
 
 **Grading rubric:** n/a
+
+
+
+
+&nbsp;
+
+
+
 
 ## Elaboration: Project proposal reflection
 
@@ -290,12 +321,21 @@ partner can point out some discrepancies or omissions, thus helping the
 team improve their understanding of the project and its scope.
 
 **Template:** [SPSG project proposal reflection
-template.docx]{.underline}
+template.docx](</files/templates/SPSG project proposal reflection template.docx>)
 
 **Prerequisites:** a high-level introduction to software requirements
 and requirements engineering
 
 **Grading rubric**
+
+
+
+
+
+&nbsp;
+
+
+
 
 ## Elaboration: Requirements outline
 
@@ -330,12 +370,20 @@ epics. It is crucial to correct any potential mistakes at this point.
 Not doing so will have a potentially strong detrimental impact on the
 team's success in the project.
 
-**Template:** [SPSG requirements outline template.docx]{.underline}
+**Template:** [SPSG requirements outline template.docx](</files/templates/SPSG requirements outline template.docx>)
 
 **Prerequisites:** use cases (including UML use case diagrams), agile
 user stories, functional and non-functional requirements
 
 **Grading rubric**
+
+
+
+
+&nbsp;
+
+
+
 
 ## Elaboration: Product backlog
 
@@ -356,7 +404,7 @@ The product backlog deliverable includes the following components:
 
 -   A sketch of user interface (as applicable).
 
-**Template:** [SPSG product backlog template.docx]{.underline}
+**Template:** [SPSG product backlog template.docx](</files/templates/SPSG product backlog template.docx>)
 
 **Note:** This template assumes that there will be four development
 sprints in this project, which factors into the sprint size
@@ -366,6 +414,11 @@ calculations. This should be adjusted as needed.
 prioritization
 
 **Grading rubric**
+
+
+&nbsp;
+
+
 
 ## Development: Development kick-off presentation
 
@@ -400,11 +453,16 @@ reflecting the following:
 -   Any lessons learned so far about interacting with the project
     partner, teamwork, and other non-technical aspects of the project.
 
-**Template: none**
+**Template:** n/a
 
 **Prerequisites:**
 
 **Grading rubric**
+
+
+&nbsp;
+
+
 
 ## Development: Sprint planning & backlog
 
@@ -426,8 +484,13 @@ include:
     ecosystem.
 
 Except for the first sprint backlog (submitted as a part of the [product
-backlog]{.underline} [deliverable]{.underline}), each backlog is
-submitted as a part of the [sprint report deliverable]{.underline}.
+backlog deliverable](#elaboration-product-backlog)), each backlog is
+submitted as a part of the [sprint report deliverable](#development-sprint-retrospective--report).
+
+
+&nbsp;
+
+
 
 ## Development: Standup meeting / weekly scrum
 
@@ -455,6 +518,11 @@ helps teams better prepare for potential issues on their own projects,
 fostering awareness and providing strategies they can apply when similar
 challenges emerge.
 
+
+&nbsp;
+
+
+
 ## Development: Sprint review
 
 **Type: event, every sprint**
@@ -466,6 +534,11 @@ how the team interacts with it. The partner should review the sprint
 backlog and reflect the extent to which every feature (user story)
 planned for this sprint has been implemented. The team reports about
 this during their in-class sprint retrospective.
+
+
+&nbsp;
+
+
 
 ## Development: Sprint retrospective & report
 
@@ -512,7 +585,7 @@ components:
 
 -   Next sprint backlog.
 
-**Template:** [SPSG sprint report template.docx]{.underline}
+**Template:** [SPSG sprint report template.docx](</files/templates/SPSG sprint report template.docx>)
 
 **Note:** This template assumes that there will be four development
 sprints in this project, which factors into the sprint size
@@ -522,6 +595,11 @@ calculations. This should be adjusted as needed.
 
 **Grading rubric**
 
+
+&nbsp;
+
+
+
 ## Development: Updated code repository
 
 **Type: optional deliverable, every sprint**
@@ -530,6 +608,11 @@ If the instructor wants to emphasize the code management aspect of the
 project, the end of every sprint could be an opportunity to examine the
 team's or each individual teammate's levels of contribution to the
 codebase.
+
+
+&nbsp;
+
+
 
 ## Transition: Project demonstration
 
@@ -550,6 +633,11 @@ throughout the entire project.
 **Grading rubric:** \[Project demonstration grade will reflect the
 quality and degree of project completion\]
 
+
+&nbsp;
+
+
+
 ## Transition: User manual
 
 **Type: deliverable**
@@ -560,11 +648,16 @@ produce a deliverable reflecting the main features of the system and
 providing several detailed walk-throughs through the system illustrating
 how different tasks can be accomplished.
 
-**Template:** [SPSG user manual template.docx]{.underline}
+**Template:** [SPSG user manual template.docx](</files/templates/SPSG user manual template.docx>)
 
 **Prerequisites:**
 
 **Grading rubric:**
+
+
+&nbsp;
+
+
 
 ## Transition: Deployment / transition documentation
 

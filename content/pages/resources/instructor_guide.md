@@ -1,8 +1,17 @@
+---
+weight: 2
+---
+
+
 # Instructor's perspective
 
-[a course/semester with one or multiple projects, what course
-prerequisites need to be there, importance of institutional context,
-program specifics. Also, all relevant assumptions.]{.underline}
+This document addresses a number of concerns from the course instructor's point of view: how to run a course with one or multiple projects, what course
+prerequisites need to be there, importance of institutional context and 
+program specifics. It also addresses a number of important assumptions.
+
+&nbsp;
+
+
 
 # Options for multi-semester projects
 
@@ -96,6 +105,10 @@ student team members require learning to be effective with different
 team dynamics. When considered together, these are valuable learning
 opportunities that benefit the students significantly.
 
-# Project maintenance
 
-[\[SK: TBC\]]{.mark}
+&nbsp;
+
+
+# Project maintenance concerns
+
+To be continued...
