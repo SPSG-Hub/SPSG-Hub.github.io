@@ -1,10 +1,3 @@
 ---
-weight: 1
+weight: 2
 ---
-
-# SPSG Resources
-
-Here you will find resources to help instructors get started working with a
-software studio model and running projects for community partners.
-
-{{< footer >}}
