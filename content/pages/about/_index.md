@@ -32,3 +32,21 @@ The developing set of materials will guide the prospective adopter on
 * Templates to guide project team - community partner interactions.
 * Assessment guidelines for both formative and summative student assessment.
 * Project hand-off processes to insure projects smoothly transition from one academic term to the next.
+
+## Who We Are
+
+[![](/images/CCSU_Logo_100.png)](https://www.ccsu.edu/)
+
+* [Stan Kurkovsky](https://www.ccsu.edu/person/stan-kurkovsky)
+* [Chad Williams](https://www.ccsu.edu/person/chad-williams)
+
+[![](/images/xavier_logo_56.png)](https://www.xavier.edu/)
+
+* [Nathan Sommer](https://www.xavier.edu/computer-science-department/directory/nathan_sommer)
+* [Liz Johnson](https://www.xavier.edu/computer-science-department/directory/liz-johnson)
+
+Consulting
+
+* [Mikey Goldweber, Denison University](https://denison.edu/people/mikey-goldweber)
+
+{{< footer >}}

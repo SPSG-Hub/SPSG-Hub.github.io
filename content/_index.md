@@ -4,22 +4,17 @@ bookToc: false
 
 # Welcome to the SPSG Hub!
 
-Scaffolded Projects for the Social Good (SPSG) is an NSF-funded collaboration between Central Connecticut State University and Xavier University. This site is where we post resources related to the project.
+Scaffolded Projects for the Social Good (SPSG) is an NSF-funded collaboration
+between [Central Connecticut State University](https://www.ccsu.edu/) and
+[Xavier University](https://www.xavier.edu/).
 
-## Who We Are
+The project goal is to develop resources to assist computer science faculty who
+wish to embed **community-based service-learning projects** into their
+curriculum. While not specific to our recommendations, we focus on projects and
+project partners (e.g. local non-profits) that illustrate **computing's
+potential for positive social impact.**
 
-[![](/images/CCSU_Logo_100.png)](https://www.ccsu.edu/)
-
-* [Stan Kurkovsky](https://www.ccsu.edu/person/stan-kurkovsky)
-* [Chad Williams](https://www.ccsu.edu/person/chad-williams)
-
-[![](/images/xavier_logo_56.png)](https://www.xavier.edu/)
-
-* [Nathan Sommer](https://www.xavier.edu/computer-science-department/directory/nathan_sommer)
-* [Liz Johnson](https://www.xavier.edu/computer-science-department/directory/liz-johnson)
-
-### Consulting
-
-* [Mikey Goldweber, Denison University](https://denison.edu/people/mikey-goldweber)
+See the [Structure Guide](structure_guide.md) and other resources in the site
+menu to get started.
 
 {{< footer >}}
