@@ -6,6 +6,8 @@ weight: 3
 
 Here are the publications that have come out of the SPSG project.
 
+* S. Kurkovsky, C. Williams, M. Goldweber, N. Sommer. External Projects and Partners: Addressing Challenges and Minimizing Risks from the Outset. To appear in the Proceedings of The 29th annual ACM conference on Innovation and Technology in Computer Science Education (ITiCSE), July 8-10, 2024, Milan, Italy.
+  
 * S. Kurkovsky, C. Williams, M. Goldweber, N. Sommer. Navigating Feasibility: Choosing Service-Learning Projects for Academic Fit. Tutorial at 28th Annual Conference of the Consortium for Computing Sciences in Colleges Northeast Region (CCSCNE 2024), April 12-13, 2024, Albany, NY, USA.
 
 * S. Kurkovsky, C. Williams, M. Goldweber, N. Sommer. [Community-based Service Learning: Best Practices in Software Projects with Community Partners](</files/publications/SIGCSE2024BOF.pdf>). In Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 2 (SIGCSE 2024), March 20-23, 2024, Portland, OR, USA. [https://doi.org/10.1145/3626253.3635374](https://doi.org/10.1145/3626253.3635374)
