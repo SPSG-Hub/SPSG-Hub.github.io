@@ -1,0 +1,15 @@
+---
+weight: 3
+---
+
+# Community of Practice
+
+This is a space for collecting information as we build a community of
+practice. If you would like to join our community and receive outreach
+communication, feel free to contact any of the [SPSG project
+members](/pages/about/#who-we-are).
+
+* [2024 SIGCSE Birds of a Feather session](2024_sigcse_bof)
+* 2024 CCSC NE Tutorial (upcoming)
+
+{{< footer >}}
