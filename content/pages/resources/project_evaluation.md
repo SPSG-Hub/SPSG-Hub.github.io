@@ -16,7 +16,7 @@ The SPSG Project Feasibility Evaluation Rubric is a scoring tool tailored for as
 
 This resource provides a set of questions and instructor guidance to facilitate productive conversations with potential project partners. It will assist you in gathering the necessary information to complete the rubric effectively.
 
-[Conversation Guide for Evaluating Potential Projects](</files/resources/Conversation Guide for Evaluating Potential Projects.docx>)
+[Conversation Guide for Evaluating Potential Projects](</files/resources/SPSG Conversation Guide for Evaluating Potential Projects.docx>)
 
 {{< footer >}}
 
