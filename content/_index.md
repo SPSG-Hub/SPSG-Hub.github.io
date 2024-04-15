@@ -17,8 +17,8 @@ project partners (e.g. local non-profits) that illustrate **computing's
 potential for positive social impact.**
 
 See the [About]({{< ref "about" >}}) page for an overview and information about
-us. See the [Structure Guide](structure_guide.md) and other resources in the
-site menu to start exploring our framework.
+us. See the [Structure Guide]({{< ref "structure_guide" >}}) and other
+resources in the site menu to start exploring our framework.
 
 ------------
 
