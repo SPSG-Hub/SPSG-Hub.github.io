@@ -21,12 +21,9 @@ weight: 4
 
 &nbsp;
 
-# Additional templates
 
 [Introductory email to project partner and teams](</files/templates/SPSG introductory email template.docx>)
 
-
-&nbsp;
 
 {{< footer >}}
 
