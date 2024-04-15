@@ -14,7 +14,7 @@ from the SPSG project into their own courses.
 * The [Code Management](code_management) page discusses strategies and
   potential issues for managing codebases and delivering code to partners and
   future teams
-* The [Project Evaluation](project_evaluation) page provides resources for evaluating projects for academic fit
+* The [Project Feasibility](project_feasibility) page provides resources for evaluating projects for academic fit
 * The [Templates](templates) page provides templates for various documents
   discussed in the [Structure Guide](structure_guide)
 

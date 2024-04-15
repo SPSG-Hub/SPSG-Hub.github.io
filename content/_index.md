@@ -2,11 +2,11 @@
 bookToc: false
 ---
 
-# Welcome to the SPSG Hub!
+# Scaffolded Projects for the Social Good
 
 ------------
 
-Scaffolded Projects for the Social Good (SPSG) is an NSF-funded collaboration
+Scaffolded (Computing) Projects for the Social Good (SPSG) is an NSF-funded collaboration
 between [Central Connecticut State University](https://www.ccsu.edu/) and
 [Xavier University](https://www.xavier.edu/).
 
