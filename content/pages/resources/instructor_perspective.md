@@ -111,6 +111,18 @@ opportunities that benefit the students significantly.
 
 # Project maintenance concerns
 
-To be continued...
+Several approaches to project maintenance have been successfully used in various contexts.
+
+### Maintenance by individual developers from the original team(s)
+
+Frequent communication with the project partner helps establish a good rapport with the student team. With the future maintenance concerns in mind, we encourage the project partner to openly discuss these concerns with the team to identify if any of the team members might be willing to help with the project in the longer term. This has been a viable solution for many smaller projects where students and the project partner often develop a closer connection based on their common geographic location and/or the shared cause being addressed by the project. In many cases, our graduates stayed in touch with the project partners to provide adequate and timely resolution to many bugfix requests.
+
+### Maintenance by a (new) standby team or individual developers
+
+In situations when the program has an established track of completed projects and there is a likelihood of multiple maintenance requests coming in every semester, it may be reasonable to reserve a team of developers to address any maintenance requests as they come in. The main advantage of this approach is the immediate availability of the developers to address any incoming requests. The disadvantage is that it may be difficult to predict the workload during a given semester. This approach can also be implemented with an individual student, especially if they are more experienced, e.g. being in a graduate program.  
+
+### Maintenance as a standalone project
+
+This approach works well if the nature of maintenance requests is such that they do not require immediate attention and/or if they focus on developing new features rather than fixing small defects. In that case, any requests for new features along with any non-urgent bugfixes can be framed as a new project extending the work of the previous project. The instructor will need to negotiate with the project partner to ensure that the scope of the new project is right and that it still meets the project [feasibility requirements](<../project_feasibility>). The project partner will need to have a clear understanding that this work still needs to be aligned with the academic timeline, allowing necessary time all four phases of the [SPSG framework](<../structure_guide>).
 
 {{< footer >}}
