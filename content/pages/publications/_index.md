@@ -6,7 +6,11 @@ weight: 4
 
 Here are the publications that have come out of the SPSG project.
 
-* S. Kurkovsky, C. Williams, M. Goldweber, N. Sommer. External Projects and Partners: Addressing Challenges and Minimizing Risks from the Outset. To appear in the Proceedings of The 29th annual ACM conference on Innovation and Technology in Computer Science Education (ITiCSE), July 8-10, 2024, Milan, Italy.
+* C. Williams, S. Kurkovsky, M. Goldweber, N. Sommer. WIP: A Systematic Approach to Screen and Align Service-Learning Projects for Optimal Student Outcomes. To appear in the Proceedings of 2024 IEEE/ASEE Frontiers in Education conference, October 13-16, 2024, Washington, DC, USA.
+
+* C. Williams, H. Wang, S. Kurkovsky, X. Hou, R. Sharp. WIP: Industry 4.0 Robotics - An Interdisciplinary Approach to Deep Learning. To appear in the Proceedings of 2024 IEEE/ASEE Frontiers in Education conference, October 13-16, 2024, Washington, DC, USA.
+
+* S. Kurkovsky, C. Williams, M. Goldweber, N. Sommer. [External Projects and Partners: Addressing Challenges and Minimizing Risks from the Outset](</files/publications/ITiCSE2024.pdf>). In Proceedings of The 29th annual ACM conference on Innovation and Technology in Computer Science Education (ITiCSE), July 8-10, 2024, Milan, Italy. [https://dl.acm.org/doi/10.1145/3649217.3653593](<https://dl.acm.org/doi/10.1145/3649217.3653593>)
   
 * S. Kurkovsky, C. Williams, M. Goldweber, N. Sommer. Navigating Feasibility: Choosing Service-Learning Projects for Academic Fit. Tutorial at 28th Annual Conference of the Consortium for Computing Sciences in Colleges Northeast Region (CCSCNE 2024), April 12-13, 2024, Albany, NY, USA.
 
