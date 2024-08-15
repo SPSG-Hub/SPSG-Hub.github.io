@@ -6,7 +6,7 @@ weight: 1
 
 This project endeavors to merge and hopefully provide potential solutions to a number of inter-related pedagogical goals. These include:
  
-* **Incorporate community-engaged learning into the curriculum.** Students, working on real projects for actual community partners has many benefits. These include, increased student motivation, authentic software engineering experiences, and the honing of key professional practices.
+* **Incorporate community-engaged learning into the curriculum.** Students, working on real projects for actual community partners receive many benefits. These include increased student motivation, authentic software engineering experiences, and the honing of key professional practices.
 * **Focus on projects that have positive social benefit.** While real-world projects engender greater motivation than instructor-fabricated ones, projects that also convey the myriad of potential benefits computing can have in one's community also have been shown to have strong positive impacts on broadening participation.
 
 However, as anyone who has undertaken a community-engaged learning project can attest, there are numerous hurdles that must be overcome. These include:
@@ -25,7 +25,7 @@ In the studio model, projects "live" in the studio as long as necessary. Student
 
 To create a comprehensive set of materials for interested educators to use in setting up their own studio. These materials will be class tested in a variety of educational contexts: from large universities with graduate programs (where multiple courses/teams are concurrently working on multiple projects), to small, undergraduate, liberal arts institutions (where during any one term, there may be only a single course with only a handful of teams, all working on the same project).
 
-The developing set of materials will guide the prospective adopter on
+The developing set of materials will guide the prospective adopter on:
 
 * Identifying potential community partners with the needed level of "buy-in."
 * Project vetting to insure project scope and skill needs are an appropriate match.
