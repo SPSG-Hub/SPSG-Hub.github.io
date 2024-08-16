@@ -2,7 +2,7 @@
 weight: 6
 ---
 
-# Samples for SPSG Deliverables
+# Samples of SPSG Deliverables
 
 ## Connecticut Explored App
 
