@@ -6,9 +6,7 @@ weight: 6
 
 ## Connecticut Explored App
 
-<!--
-{{< figure src="/images/CT_Explored_screenshot_300.png" float="right">}}
--->
+{{< ct_explored_screenshot_1 >}}
 
 This project was started by a team of 5 seniors who worked on this project for one semester in a Senior Project course. It will remain in development for at least one more semester by a different team.  
 
