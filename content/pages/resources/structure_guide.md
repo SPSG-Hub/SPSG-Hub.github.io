@@ -243,7 +243,7 @@ important.
 
 **Prerequisites:**
 
-**Grading rubric:** [Team agreement grading rubric](../rubrics/#team-agreement)
+**Grading rubric:** [Team agreement grading rubric](../grading_rubrics/#team-agreement)
 
 
 
@@ -328,7 +328,7 @@ template.docx](</files/templates/SPSG project proposal reflection template.docx>
 **Prerequisites:** a high-level introduction to software requirements
 and requirements engineering
 
-**Grading rubric:** [Project proposal reflection grading rubric](../rubrics/#proposal-reflection)
+**Grading rubric:** [Project proposal reflection grading rubric](../grading_rubrics/#proposal-reflection)
 
 
 
@@ -378,7 +378,7 @@ team's success in the project.
 **Prerequisites:** use cases (including UML use case diagrams), agile
 user stories, functional and non-functional requirements
 
-**Grading rubric:** [Requirements outline grading rubric](../rubrics/#system-requirements)
+**Grading rubric:** [Requirements outline grading rubric](../grading_rubrics/#system-requirements)
 
 
 
@@ -416,7 +416,7 @@ calculations. This should be adjusted as needed.
 **Prerequisites:** introduction to scrum, user story sizing and
 prioritization
 
-**Grading rubric:** [Product backlog grading rubric](../rubrics/#product-backlog)
+**Grading rubric:** [Product backlog grading rubric](../grading_rubrics/#product-backlog)
 
 
 &nbsp;
@@ -460,7 +460,7 @@ reflecting the following:
 
 **Prerequisites:**
 
-**Grading rubric:** [Development kick-off presentation grading rubric](../rubrics/#dev-kickoff-presentation)
+**Grading rubric:** [Development kick-off presentation grading rubric](../grading_rubrics/#dev-kickoff-presentation)
 
 
 &nbsp;
@@ -596,7 +596,7 @@ calculations. This should be adjusted as needed.
 
 **Prerequisites:**
 
-**Grading rubric:** [Sprint report grading rubric](../rubrics/#sprint-report)
+**Grading rubric:** [Sprint report grading rubric](../grading_rubrics/#sprint-report)
 
 
 &nbsp;
@@ -633,7 +633,7 @@ throughout the entire project.
 
 **Prerequisites:**
 
-**Grading rubric:** [Project demonstration grading rubric](../rubrics/#project-demonstration)
+**Grading rubric:** [Project demonstration grading rubric](../grading_rubrics/#project-demonstration)
 (Note: project demonstration grade will reflect the quality and degree of project completion)
 
 
@@ -655,7 +655,7 @@ how different tasks can be accomplished.
 
 **Prerequisites:**
 
-**Grading rubric:** [User and deployment documentation grading rubric](../rubrics/#manual)
+**Grading rubric:** [User and deployment documentation grading rubric](../grading_rubrics/#manual)
 
 
 &nbsp;
