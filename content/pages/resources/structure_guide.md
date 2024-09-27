@@ -241,9 +241,9 @@ important.
 
 **Template:** [SPSG team agreement template.docx](</files/templates/SPSG team agreement template.docx>)
 
-**Prerequisites**
+**Prerequisites:**
 
-**Grading rubric**
+**Grading rubric:** [Team agreement grading rubric](../rubrics/#team-agreement)
 
 
 
@@ -313,7 +313,7 @@ proposal reflection consists of three main parts:
 
 -   Intended use of the system
 
--   Overall functionality
+-   Overall and project-specific functionality
 
 -   Main components
 
@@ -328,7 +328,7 @@ template.docx](</files/templates/SPSG project proposal reflection template.docx>
 **Prerequisites:** a high-level introduction to software requirements
 and requirements engineering
 
-**Grading rubric**
+**Grading rubric:** [Project proposal reflection grading rubric](../rubrics/#proposal-reflection)
 
 
 
@@ -352,7 +352,8 @@ focusing primarily on functional requirements.
 Requirements outline deliverable consists of several components:
 
 -   A narrative providing a general overview of the system\'s functional
-    requirements and identifying several use cases.
+    requirements and identifying several use cases that focus on the 
+    functionality being implemented by the team.
 
 -   A set of user stories in a commonly accepted standard, each user
     story corresponding to one of the use cases identified above.
@@ -377,7 +378,7 @@ team's success in the project.
 **Prerequisites:** use cases (including UML use case diagrams), agile
 user stories, functional and non-functional requirements
 
-**Grading rubric**
+**Grading rubric:** [Requirements outline grading rubric](../rubrics/#system-requirements)
 
 
 
@@ -415,7 +416,7 @@ calculations. This should be adjusted as needed.
 **Prerequisites:** introduction to scrum, user story sizing and
 prioritization
 
-**Grading rubric**
+**Grading rubric:** [Product backlog grading rubric](../rubrics/#product-backlog)
 
 
 &nbsp;
@@ -459,7 +460,7 @@ reflecting the following:
 
 **Prerequisites:**
 
-**Grading rubric**
+**Grading rubric:** [Development kick-off presentation grading rubric](../rubrics/#dev-kickoff-presentation)
 
 
 &nbsp;
@@ -595,7 +596,7 @@ calculations. This should be adjusted as needed.
 
 **Prerequisites:**
 
-**Grading rubric**
+**Grading rubric:** [Sprint report grading rubric](../rubrics/#sprint-report)
 
 
 &nbsp;
@@ -632,8 +633,8 @@ throughout the entire project.
 
 **Prerequisites:**
 
-**Grading rubric:** \[Project demonstration grade will reflect the
-quality and degree of project completion\]
+**Grading rubric:** [Project demonstration grading rubric](../rubrics/#project-demonstration)
+(Note: project demonstration grade will reflect the quality and degree of project completion)
 
 
 &nbsp;
@@ -654,7 +655,7 @@ how different tasks can be accomplished.
 
 **Prerequisites:**
 
-**Grading rubric:**
+**Grading rubric:** [User and deployment documentation grading rubric](../rubrics/#manual)
 
 
 &nbsp;
