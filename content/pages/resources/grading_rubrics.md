@@ -9,7 +9,7 @@ weight: 6
 
 The points reflect relative weightings for each deliverable. The point
 distribution across different deliverables can vary depending upon
-institutional context and the specifics of the course. Combined, all rubrics below add up to 500 pts when for a project that includes four development sprints.
+institutional context and the specifics of the course. Combined, all rubrics below add up to 500 pts for a project that includes four development sprints.
 
 
 &nbsp;
