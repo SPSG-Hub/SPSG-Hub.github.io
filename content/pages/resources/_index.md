@@ -17,7 +17,7 @@ from the SPSG project into their own courses.
 * The [Project Feasibility](project_feasibility) page provides resources for evaluating projects for academic fit
 * The [Templates](templates) page provides templates for various documents
   discussed in the [Structure Guide](structure_guide)
-* The [Rubrics](rubrics) page provides sample rubrics for grading all project deliverables described in the [Structure Guide](structure_guide)
+* The [Grading rubrics](grading_rubrics) page provides sample rubrics for grading all project deliverables described in the [Structure Guide](structure_guide)
 * The [Samples](samples) page provides complete sets of student deliverables and other relevant documents for several projects completed using the SPSG framework
 
 
