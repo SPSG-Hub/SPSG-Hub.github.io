@@ -3,7 +3,7 @@ weight: 6
 ---
 
 
-# SPSG Sample Grading Rubrics for Project Deliverables {#spsg-rubrics .unnumbered}
+# Sample Grading Rubrics for Project Deliverables {#spsg-rubrics .unnumbered}
 
 ## General notes
 
