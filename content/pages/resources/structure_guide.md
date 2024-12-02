@@ -142,7 +142,7 @@ to email, giving more time to provide additional information and answer
 follow-up questions that are very likely to emerge on either end.
 Furthermore, the instructor needs to collaborate with the project
 partner to ensure that the potential project is a good fit using the
-[SPSG Project Feasibility Assessment Model]{.underline}. Once the
+[SPSG Project Feasibility Assessment Model](<../project_feasibility>). Once the
 instructor has determined that the project is a good fit, we ask the
 project partner to take a first cut at completing some parts of the
 project proposal, which is likely to lead to a more fruitful discussion
