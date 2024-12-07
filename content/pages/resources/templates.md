@@ -2,7 +2,7 @@
 weight: 5
 ---
 
-# Templates for SPSG Deliverables
+# Templates for SPSG Deliverables and Other Documents
 
 [Project proposal](</files/templates/SPSG project proposal template.docx>)
 
