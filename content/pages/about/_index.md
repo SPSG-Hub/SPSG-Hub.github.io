@@ -28,10 +28,10 @@ To create a comprehensive set of materials for interested educators to use in se
 The developing set of materials will guide the prospective adopter on:
 
 * Identifying potential community partners with the needed level of "buy-in."
-* Project vetting to insure project scope and skill needs are an appropriate match.
+* Project vetting to ensure project scope and skill needs are an appropriate match.
 * Templates to guide project team - community partner interactions.
 * Assessment guidelines for both formative and summative student assessment.
-* Project hand-off processes to insure projects smoothly transition from one academic term to the next.
+* Project hand-off processes to ensure projects smoothly transition from one academic term to the next.
 
 ## Who We Are
 
