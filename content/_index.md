@@ -24,15 +24,15 @@ resources in the site menu to start exploring our framework.
 
 {{< columns >}}
 
-[![](/images/CCSU_Logo_200.png)](https://www.ccsu.edu/)
+{{< index_ccsu_logo >}}
 
 <--->
 
-[![](/images/Xavier_logo_200.png)](https://www.xavier.edu/)
+{{< index_xavier_logo >}}
 
 <--->
 
-[![](/images/NSF_logo_200.png)](https://www.nsf.gov)
+{{< index_nsf_logo >}}
 
 {{< /columns >}}
 
