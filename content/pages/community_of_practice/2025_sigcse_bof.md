@@ -2,7 +2,7 @@
 title: 2025 SIGCSE BoF
 ---
 
-# 2025 SIGCSE BoF
+# 2025 SIGCSE BoF 
 
 At the [2025 SIGCSE Technical Symposium](https://sigcse2025.sigcse.org/) we
 organized a [Birds of a Feather
