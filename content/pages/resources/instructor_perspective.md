@@ -86,7 +86,7 @@ learning curve.
 A third approach is to have the project continue on with the subsequent
 course in the sequence, but with a different team. With this approach
 there is still the need for strong transition documentation, but
-students have sources of expertise in their classroom. While in may seem
+students have sources of expertise in their classroom. While it may seem
 less intuitive than keeping teams with their original project, we have
 found this approach along with reshuffling teams in the subsequent
 course to actually be our preferred approach from a learning
