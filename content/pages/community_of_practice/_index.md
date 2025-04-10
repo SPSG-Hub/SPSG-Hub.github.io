@@ -12,6 +12,6 @@ members](/pages/about/#who-we-are).
 * [2024 SIGCSE Birds of a Feather session](2024_sigcse_bof)
 * 2024 CCSC NE Tutorial (upcoming)
 * [2025 SIGCSE Birds of a Feather session](2025_sigcse_bof)
-
+* [2025 CCSC SW Tutorial](2025_CCSC_SW_summary)
 
 {{< footer >}}

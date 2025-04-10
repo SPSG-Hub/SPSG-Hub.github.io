@@ -1,5 +1,6 @@
 ---
 title: 2024 SIGCSE BoF
+weight: 1
 ---
 
 # 2024 SIGCSE BoF

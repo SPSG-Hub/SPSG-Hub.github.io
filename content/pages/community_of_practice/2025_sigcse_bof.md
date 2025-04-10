@@ -1,5 +1,6 @@
 ---
 title: 2025 SIGCSE BoF
+weight: 2
 ---
 
 # 2025 SIGCSE BoF 
