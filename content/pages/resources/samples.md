@@ -6,11 +6,11 @@ weight: 7
 
 &nbsp;
 
-## Connecticut Explored App
+## Connecticut Explored App (1 of 2)
 
 {{< ct_explored_screenshot_1 >}}
 
-This project was started by a team of 5 seniors who worked on this project for one semester in a Senior Project course. It will remain in development for at least one more semester by a different team.  
+This project was started by a team of 5 seniors who worked on this project for one semester in a Senior Project course. It stayed in development for for one more semester by a different team (next section).  
 
 - **Inception**
 
@@ -81,6 +81,76 @@ This project was started by a team of 5 seniors who worked on this project for o
 	[1-minute pitch at the project showcase](</files/samples/CTExplored/transition/Pitch.pdf>)
 
 &nbsp;
+
+
+
+## Connecticut Explored App (2 of 2)
+
+{{< ct_explored_screenshot_2 >}}
+
+This project was picked up and finalized by a team of 4 seniors in a Software Engineering course.   
+
+- **Inception**
+
+	[Project proposal](</files/samples/CTExplored2/inception/Ct Explored Scavenger Hunt App_SoftwareProjectProposal.pdf>)
+
+
+- **Elaboration**
+
+	[Team information sheet](</files/samples/CTExplored2/elaboration/Project Team Info Sheet.pdf>)
+
+	[Project proposal reflection](</files/samples/CTExplored2/elaboration/Project proposal reflection.pdf>)
+
+	[System requirements](</files/samples/CTExplored2/elaboration/System Requirements.pdf>)
+
+	[Product backlog](</files/samples/CTExplored2/elaboration/Product Backlog.pdf>)
+
+	[Development kick-off presentation](</files/samples/CTExplored2/elaboration/Project kickoff presentation.pdf>)
+
+
+
+
+- **Development**
+
+	- **Sprint 1** &nbsp; 
+		[Backlog](</files/samples/CTExplored2/development/Sprint 1 backlog.pdf>)
+		 &nbsp; | &nbsp; 
+		[Report](</files/samples/CTExplored2/development/Sprint 1 report.pdf>) 
+		&nbsp; | &nbsp; 
+		[Demo](<https://www.youtube.com/watch?v=7OlGan96Tvs>)
+
+
+	- **Sprint 2** &nbsp; 
+		[Backlog](</files/samples/CTExplored2/development/Sprint 2 backlog.pdf>)
+		 &nbsp; | &nbsp; 
+		[Report](</files/samples/CTExplored2/development/Sprint 2 report.pdf>)
+		 &nbsp; | &nbsp; 	
+		[Demo](<https://www.youtube.com/watch?v=kYbdmChknOE>)
+
+
+	- **Sprint 3** &nbsp; 
+		[Backlog](</files/samples/CTExplored2/development/Sprint 3 backlog.pdf>)
+		 &nbsp; | &nbsp; 
+		[Report](</files/samples/CTExplored2/development/Sprint 3 report.pdf>)
+		 &nbsp; | &nbsp; 	
+		[Demo](<https://www.youtube.com/watch?v=mBIFi57oAjI>)
+
+
+	- **Sprint 4** &nbsp; 
+		[Backlog](</files/samples/CTExplored2/development/Sprint 4 backlog.pdf>)
+		 &nbsp; | &nbsp; 
+		[Report](</files/samples/CTExplored2/development/Sprint 4 report.pdf>)
+		 &nbsp; | &nbsp; 	
+		[Demo](<https://www.youtube.com/watch?v=VT4_wutXQik>)
+
+
+- **Transition**
+
+	[Deployment and user manual](</files/samples/CTExplored2/transition/User Manual.pdf>)
+
+
+&nbsp;
+
 
 
 
