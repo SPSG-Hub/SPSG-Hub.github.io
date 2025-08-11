@@ -6,6 +6,12 @@ weight: 4
 
 Here are the publications that have come out of the SPSG project.
 
+* C. Williams, S. Kurkovsky, M. Goldweber, N. Sommer. Navigating Multi-Semester Service Learning in Software Engineering: Strategies for Success. To appear in Proceedings of 2025 IEEE/ASEE Frontiers in Education conference (FIE 2025), November 2-5, 2025, Nashville, TN, USA.
+
+* N. Sommer, S. Kurkovsky, C. Williams, M. Goldweber. WIP: Easing the Transition to Project-Based Software Engineering Courses with Externally Sourced Projects. To appear in Proceedings of 2025 IEEE/ASEE Frontiers in Education conference (FIE 2025), November 2-5, 2025, Nashville, TN, USA.
+
+* S. Kurkovsky, M. Goldweber, C. Williams, N. Sommer. Scaffolded Projects for the Social Good: Broadening Participation in Service Learning for Computing Curricula. To appear in Proceedings of the 3rd ACM Conference on Global Computing Education (CompEd 2025), Gaborone, Botswana, October 22-25, 2025.
+
 * M. Goldweber, S. Kurkovsky, C. Williams, N. Sommer. [Community-Engaged Software Projects: A Lightweight Approach](</files/publications/ITiCSE2025Lightweight.pdf>). In Proceedings of the 30th ACM Conference on Innovation and Technology in Computer Science Education (ITiCSE 2025), Nijmegen, Netherlands, June 30-July 2, 2025. [https://doi.org/10.1145/3724389.3731262](<https://doi.org/10.1145/3724389.3731262>)
 
 * S. Kurkovsky, C. Williams. [A Near-Peer Mentorship Framework for Software Projects](</files/publications/ITiCSE2025NearPeer.pdf>). In Proceedings of the 30th ACM Conference on Innovation and Technology in Computer Science Education (ITiCSE 2025), Nijmegen, Netherlands, June 30-July 2, 2025. [https://doi.org/10.1145/3724389.3731275](<https://doi.org/10.1145/3724389.3731275>)
