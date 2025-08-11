@@ -215,7 +215,7 @@ One team of students contributed to an existing project during the Spring 2025 s
 
 	[Project proposal](</files/samples/Grey-Box/inception/Grey-box.Symmetry.SoftwareProjectProposal.2025.pdf>)
 
-
+<!--
 - **Elaboration**
 
 	[Team information sheet](</files/samples/GloriousRecovery/elaboration/Team Info Sheet.pdf>)
@@ -249,7 +249,7 @@ One team of students contributed to an existing project during the Spring 2025 s
 	[Deployment and user manual](</files/samples/GloriousRecovery/transition/User Manual.pdf>)
 
 
-
+-->
 
 {{< footer >}}
 
