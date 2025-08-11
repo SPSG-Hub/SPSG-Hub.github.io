@@ -233,11 +233,18 @@ One team of students contributed to an existing project during the Spring 2025 s
 - **Development**
 
 	- **Sprint 1** &nbsp; 
-		[Backlog](</files/samples/Grey-Box/development/Sprint1 ProductBacklog.pdf>)
+		[Backlog](</files/samples/Grey-Box/development/Sprint1 Backlog.pdf>)
 		 &nbsp; | &nbsp; 
 		[Report](</files/samples/Grey-Box/development/Sprint1 report.pdf>) 
 		&nbsp; | &nbsp; 
 		[Presentation](</files/samples/Grey-Box/development/Sprint1 retrospective.pdf>)
+
+	- **Sprint 2** &nbsp; 
+		[Backlog](</files/samples/Grey-Box/development/Sprint2 Backlog.pdf>)
+		 &nbsp; | &nbsp; 
+		[Report](</files/samples/Grey-Box/development/Sprint2 report.pdf>) 
+		&nbsp; | &nbsp; 
+		[Presentation](</files/samples/Grey-Box/development/Sprint2 retrospective.pdf>)
 
 <!--
 	- **Sprint 2** &nbsp; 
