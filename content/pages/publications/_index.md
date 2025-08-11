@@ -6,6 +6,8 @@ weight: 4
 
 Here are the publications that have come out of the SPSG project.
 
+* S. Kurkovsky, C. Williams. [A Near-Peer Mentorship Framework for Software Projects](</files/publications/ITiCSE2025NearPeer.pdf>). In Proceedings of the 30th ACM Conference on Innovation and Technology in Computer Science Education (ITiCSE 2025), Nijmegen, Netherlands, June 30-July 2, 2025. [https://doi.org/10.1145/3724389.3731275](<https://doi.org/10.1145/3724389.3731275>)
+
 * S. Kurkovsky, M. Goldweber, C. Williams, N. Sommer. [A Scaffolding-based Approach for Addressing Challenges of Service Learning Adoption](</files/publications/SIGCSE2025poster.pdf>). In Proceedings of the 56th ACM Technical Symposium on Computer Science Education (SIGCSETS 2025), February 28 - March 2, 2025, Pittsburgh, PA, USA. [https://doi.org/10.1145/3641555.3705119](https://doi.org/10.1145/3641555.3705119)
 
 * A. Csizmar Dalal, S. Kurkovsky, P. Morreale, M. Goldweber. [How to Teach Software Engineering for Societal and Social Impact](</files/publications/SIGCSE2025panel.pdf>). In Proceedings of the 56th ACM Technical Symposium on Computer Science Education (SIGCSETS 2025), February 28 - March 2, 2025, Pittsburgh, PA, USA. [https://doi.org/10.1145/3641555.3704711](https://doi.org/10.1145/3641555.3704711)
