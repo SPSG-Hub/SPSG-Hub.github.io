@@ -13,7 +13,7 @@ program specifics. It also addresses a number of important assumptions.
 
 
 
-# Options for multi-semester projects
+## Options for multi-semester projects
 
 One of the attributes of many external projects is they often can't be
 completed in a single academic semester. Consequently, instructors must
@@ -24,12 +24,12 @@ experimented with various transition models, each showing success.
 Below, we detail these approaches, outlining the benefits and potential
 drawbacks observed with each:
 
-## For institutions with only a single SPSG semester length course
+### For institutions with only a single SPSG semester length course
 
 For institutions that don't have multi-semester sequences suitable for
 SPSG this approach may be the only fit.
 
-### Continuation with different student team(s) same course
+#### Continuation with different student team(s) same course
 
 For this model each semester the new student team must become familiar
 with the project and the partner's project leadership. This is the
@@ -48,14 +48,14 @@ new team, such as serving as near peer mentors on the projects or at a
 minimum meet with the new student team at the start of the semester in a
 kickoff event which serves as a crash course for the new student teams.
 
-## For institutions with either year-long or course sequences suitable for SPSG
+### For institutions with either year-long or course sequences suitable for SPSG
 
 For institutions that have either a year-long course or similar course
 sequence (e.g. Software Engineering I and Software Engineering 2, or
 Software Engineering and Senior Project) there are a number of options
 for supporting a multi-semester project.
 
-### Continuation with same student team
+#### Continuation with same student team
 
 With this approach in the subsequent semester the same student team
 continues working with the same project in the following semester. This
@@ -68,7 +68,7 @@ can lead to either a smaller team in the subsequent semester or adding
 one new member to an existing team that is already up to speed, which
 may lead to poor experience for the new added student.
 
-### Continuation splitting student teams
+#### Continuation splitting student teams
 
 This approach has been used when the initial phase of the project was a
 proof of concept of setting up a foundation for a larger multi-tasked
@@ -81,7 +81,7 @@ the continuing students becoming sources of expertise within the new
 teams. This typically allows for shortening the partner and project
 learning curve.
 
-### Continuation with different teams
+#### Continuation with different teams
 
 A third approach is to have the project continue on with the subsequent
 course in the sequence, but with a different team. With this approach
@@ -109,9 +109,16 @@ opportunities that benefit the students significantly.
 &nbsp;
 
 
-# Project maintenance concerns
+## Project maintenance concerns
 
 Several approaches to project maintenance have been successfully used in various contexts.
+
+### General considerations
+
+Post-deployment maintenance and support is a crucial concern that must be discussed with the project partner from the outset. It is important to be upfront with the project partners that unless there is a team actively working on that project in a given semester, it may not always be able to offer quick bug fixes. Additional considerations that need to be addressed at the same time include any *expenses related to project hosting*, as well as *license fees*, *monitoring the environment*, the need for potential *tech support* if outside vendors make changes, potential security issues, etc.
+
+Several approaches that we have been successful with offering to our partners are described below. Some of them may be more or less suitable depending on the partner's organizational and project context. 
+
 
 ### Maintenance by individual developers from the original team(s)
 
