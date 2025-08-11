@@ -259,15 +259,13 @@ One team of students contributed to an existing project during the Spring 2025 s
 		[Report](</files/samples/Grey-Box/development/Sprint4 report.pdf>) 
 		&nbsp; | &nbsp; 
 		[Presentation](</files/samples/Grey-Box/development/Sprint4 retrospective.pdf>)
-<!--
 
 
 - **Transition**
 
-	[Deployment and user manual](</files/samples/GloriousRecovery/transition/User Manual.pdf>)
+	[Deployment and user manual](</files/samples/Grey-Box/transition/User and Deployment Manual.pdf>)
 
 
--->
 
 {{< footer >}}
 
