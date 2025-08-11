@@ -225,24 +225,45 @@ One team of students contributed to an existing project during the Spring 2025 s
 	[System requirements](</files/samples/Grey-Box/elaboration/System Requirements.pdf>)
 
 	[Product backlog](</files/samples/Grey-Box/elaboration/Product Backlog.pdf>)
-<!--
-	[Development kick-off presentation](</files/samples/GloriousRecovery/elaboration/Development kick-off presentation.pdf>)
+
+	[Development kick-off presentation](</files/samples/Grey-Box/elaboration/Development kickoff.pdf>)
 
 
 
 - **Development**
 
 	- **Sprint 1** &nbsp; 
-		[Backlog and report](</files/samples/GloriousRecovery/development/Sprint 1 report.pdf>)
+		[Backlog](</files/samples/Grey-Box/development/Sprint1 ProductBacklog.pdf>)
+		 &nbsp; | &nbsp; 
+		[Report](</files/samples/Grey-Box/development/Sprint1 report.pdf>) 
+		&nbsp; | &nbsp; 
+		[Presentation](</files/samples/Grey-Box/development/Sprint1 retrospective.pdf>)
 
+<!--
 	- **Sprint 2** &nbsp; 
-		[Backlog and report](</files/samples/GloriousRecovery/development/Sprint 2 report.pdf>)
+		[Backlog](</files/samples/CTExplored2/development/Sprint 2 backlog.pdf>)
+		 &nbsp; | &nbsp; 
+		[Report](</files/samples/CTExplored2/development/Sprint 2 report.pdf>)
+		 &nbsp; | &nbsp; 	
+		[Demo](<https://www.youtube.com/watch?v=kYbdmChknOE>)
+
 
 	- **Sprint 3** &nbsp; 
-		[Backlog and report](</files/samples/GloriousRecovery/development/Sprint 3 report.pdf>)
+		[Backlog](</files/samples/CTExplored2/development/Sprint 3 backlog.pdf>)
+		 &nbsp; | &nbsp; 
+		[Report](</files/samples/CTExplored2/development/Sprint 3 report.pdf>)
+		 &nbsp; | &nbsp; 	
+		[Demo](<https://www.youtube.com/watch?v=mBIFi57oAjI>)
+
 
 	- **Sprint 4** &nbsp; 
-		[Backlog and report](</files/samples/GloriousRecovery/development/Sprint 4 report.pdf>)
+		[Backlog](</files/samples/CTExplored2/development/Sprint 4 backlog.pdf>)
+		 &nbsp; | &nbsp; 
+		[Report](</files/samples/CTExplored2/development/Sprint 4 report.pdf>)
+		 &nbsp; | &nbsp; 	
+		[Demo](<https://www.youtube.com/watch?v=VT4_wutXQik>)
+
+
 
 - **Transition**
 
