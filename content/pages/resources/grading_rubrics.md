@@ -951,69 +951,73 @@ Each item below is worth 2 points.
 **1.  Deployment/Installation Steps and Technical Specifications (10
     points)**
 
--   **10 pts**: Provides a clear, detailed, and accurate guide for
-    deploying and installing the system. Includes all necessary
-    technical specifications such as quirements, configuration
-    settings, and installation procedures.
+-   **25 pts**: Provides a clear, complete, and logically organized guide for deploying and installing the system. Includes all necessary technical specifications, such as:
 
--   **7-9 pts**: Guide is mostly clear and detailed but may have minor
-    omissions or unclear sections. Technical specifications are included
-    but may lack some details.
+	- **System requirements** (hardware, operating system, software dependencies, storage, network needs).
 
--   **4-6 pts**: Guide is incomplete or lacks clarity. Technical
-    specifications are partially included or not fully detailed.
+	- **Configuration settings** (environment variables, paths, permissions, authentication keys).
 
--   **0-3 pts**: Guide is missing, unclear, or incorrect. Technical
-    specifications are not provided.
+	- **Installation procedures** (step-by-step instructions that are precise, sequential, and easy to follow).
 
-**2.  Explanation of Main Features (15 points)**
+	- **Deployment instructions** for the production or target environment (e.g., cloud setup, server configuration, database migration).
 
--   **15 pts**: Provides a thorough, clear, and user-friendly
+	- **Troubleshooting guidance** for common issues during installation or deployment.
+Instructions are written in a way that any competent technical user could follow without external help and result in a fully working system.
+
+-   **18–24 pts**: Guide is mostly clear and well-structured but may have minor omissions (e.g., a missing prerequisite, incomplete troubleshooting) or slightly unclear sections. Technical specifications are included but may lack depth or precision in one or two areas.
+
+- 	**10–17 pts**: Guide is incomplete or insufficiently detailed. Several technical specifications are missing or vague. Steps may be out of logical order or difficult to follow, requiring guesswork.
+
+-	**0–9 pts**: Guide is missing, highly unclear, or incorrect. Key technical specifications are absent. Instructions are incomplete to the point that the system cannot be installed or deployed successfully.
+
+**2.  Explanation of Main Features (10 points)**
+
+-   **10 pts**: Provides a thorough, clear, and user-friendly
     explanation of the main features of the system. Tailored for users
     who may not be familiar with the system, with a focus on usability.
 
--   **10-14 pts**: Explanation is clear and mostly user-friendly, but
+-   **7-9 pts**: Explanation is clear and mostly user-friendly, but
     may lack some detail or clarity. Main features are described
     adequately but may not be fully accessible to all users.
 
--   **5-9 pts**: Explanation is somewhat unclear or lacks detail. Users
+-   **4-6 pts**: Explanation is somewhat unclear or lacks detail. Users
     may struggle to understand the main features and their benefits.
 
--   **0-4 pts**: Explanation is incomplete, unclear, or not
+-   **0-3 pts**: Explanation is incomplete, unclear, or not
     user-friendly. Main features are not adequately described.
 
-**3.  Walkthrough for Main Scenario (15 points)**
+**3.  Walkthrough for Main Scenario (10 points)**
 
--   **15 pts**: Provides a comprehensive and clear walkthrough of the
+-   **10 pts**: Provides a comprehensive and clear walkthrough of the
     main scenario. Includes appropriate screenshots that enhance
     understanding and are well-integrated into the document.
 
--   **10-14 pts**: Walkthrough is mostly clear but may lack some detail
+-   **7-9 pts**: Walkthrough is mostly clear but may lack some detail
     or have minor issues with screenshots. The main scenario is
     described adequately.
 
--   **5-9 pts**: Walkthrough is incomplete or unclear, with screenshots
+-   **4-6 pts**: Walkthrough is incomplete or unclear, with screenshots
     that may not effectively support the description. The main scenario
     is not well-documented.
 
--   **0-4 pts**: Walkthrough is missing or unclear. Screenshots are not
+-   **0-3 pts**: Walkthrough is missing or unclear. Screenshots are not
     included or do not support the scenario description.
 
-**4.  Walkthroughs for Additional Scenarios (10 points)**
+**4.  Walkthroughs for Additional Scenarios (5 points)**
 
--   **10 pts**: Provides clear and detailed walkthroughs for at least
+-   **5 pts**: Provides clear and detailed walkthroughs for at least
     two additional scenarios. Includes relevant screenshots that support
     the descriptions and cover alternative functionalities effectively.
 
--   **7-9 pts**: Walkthroughs are mostly clear but may lack some detail
+-   **4 pts**: Walkthroughs are mostly clear but may lack some detail
     or have minor issues with screenshots. Additional scenarios are
     described but may not fully cover all alternative functionalities.
 
--   **4-6 pts**: Walkthroughs are incomplete or unclear, with
+-   **2-3 pts**: Walkthroughs are incomplete or unclear, with
     screenshots that may not effectively support the descriptions.
     Additional scenarios are not well-documented.
 
--   **0-3 pts**: Walkthroughs are missing or unclear. Screenshots are
+-   **0-1 pts**: Walkthroughs are missing or unclear. Screenshots are
     not included or do not support the scenario descriptions.
 
 
