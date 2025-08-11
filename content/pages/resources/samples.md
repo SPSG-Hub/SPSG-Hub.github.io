@@ -246,30 +246,20 @@ One team of students contributed to an existing project during the Spring 2025 s
 		&nbsp; | &nbsp; 
 		[Presentation](</files/samples/Grey-Box/development/Sprint2 retrospective.pdf>)
 
-<!--
-	- **Sprint 2** &nbsp; 
-		[Backlog](</files/samples/CTExplored2/development/Sprint 2 backlog.pdf>)
-		 &nbsp; | &nbsp; 
-		[Report](</files/samples/CTExplored2/development/Sprint 2 report.pdf>)
-		 &nbsp; | &nbsp; 	
-		[Demo](<https://www.youtube.com/watch?v=kYbdmChknOE>)
-
-
 	- **Sprint 3** &nbsp; 
-		[Backlog](</files/samples/CTExplored2/development/Sprint 3 backlog.pdf>)
+		[Backlog](</files/samples/Grey-Box/development/Sprint3 Backlog.pdf>)
 		 &nbsp; | &nbsp; 
-		[Report](</files/samples/CTExplored2/development/Sprint 3 report.pdf>)
-		 &nbsp; | &nbsp; 	
-		[Demo](<https://www.youtube.com/watch?v=mBIFi57oAjI>)
-
+		[Report](</files/samples/Grey-Box/development/Sprint3 report.pdf>) 
+		&nbsp; | &nbsp; 
+		[Presentation](</files/samples/Grey-Box/development/Sprint3 retrospective.pdf>)
 
 	- **Sprint 4** &nbsp; 
-		[Backlog](</files/samples/CTExplored2/development/Sprint 4 backlog.pdf>)
+		[Backlog](</files/samples/Grey-Box/development/Sprint4 Backlog.pdf>)
 		 &nbsp; | &nbsp; 
-		[Report](</files/samples/CTExplored2/development/Sprint 4 report.pdf>)
-		 &nbsp; | &nbsp; 	
-		[Demo](<https://www.youtube.com/watch?v=VT4_wutXQik>)
-
+		[Report](</files/samples/Grey-Box/development/Sprint4 report.pdf>) 
+		&nbsp; | &nbsp; 
+		[Presentation](</files/samples/Grey-Box/development/Sprint4 retrospective.pdf>)
+<!--
 
 
 - **Transition**
