@@ -215,17 +215,17 @@ One team of students contributed to an existing project during the Spring 2025 s
 
 	[Project proposal](</files/samples/Grey-Box/inception/Grey-box.Symmetry.SoftwareProjectProposal.2025.pdf>)
 
-<!--
+
 - **Elaboration**
 
-	[Team information sheet](</files/samples/GloriousRecovery/elaboration/Team Info Sheet.pdf>)
+	[Team information sheet](</files/samples/Grey-Box/elaboration/team agreement.pdf>)
 
-	[Project proposal reflection](</files/samples/GloriousRecovery/elaboration/Project proposal reflection.pdf>)
+	[Project proposal reflection](</files/samples/Grey-Box/elaboration/Project proposal reflection.pdf>)
 
-	[System requirements](</files/samples/GloriousRecovery/elaboration/System Requirements.pdf>)
+	[System requirements](</files/samples/Grey-Box/elaboration/System Requirements.pdf>)
 
-	[Product backlog](</files/samples/GloriousRecovery/elaboration/Product Backlog.pdf>)
-
+	[Product backlog](</files/samples/Grey-Box/elaboration/Product Backlog.pdf>)
+<!--
 	[Development kick-off presentation](</files/samples/GloriousRecovery/elaboration/Development kick-off presentation.pdf>)
 
 
