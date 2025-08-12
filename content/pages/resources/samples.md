@@ -154,56 +154,6 @@ This project was picked up and finalized by a team of 4 seniors in a Software En
 
 
 
-## Glorious Recovery Event Calendar
-
-{{< glorious_recovery_screenshot_1 >}}
-
-This project was completed in two semesters in 2021. The sample below represents the work done by a team of 4 seniors who worked on this project during the first semester in a Software Engineering course. 
-
-- **Inception**
-
-	[Project proposal](</files/samples/GloriousRecovery/inception/Glorious Recovery project proposal.pdf>)
-
-
-- **Elaboration**
-
-	[Team information sheet](</files/samples/GloriousRecovery/elaboration/Team Info Sheet.pdf>)
-
-	[Project proposal reflection](</files/samples/GloriousRecovery/elaboration/Project proposal reflection.pdf>)
-
-	[System requirements](</files/samples/GloriousRecovery/elaboration/System Requirements.pdf>)
-
-	[Product backlog](</files/samples/GloriousRecovery/elaboration/Product Backlog.pdf>)
-
-	[Development kick-off presentation](</files/samples/GloriousRecovery/elaboration/Development kick-off presentation.pdf>)
-
-
-
-- **Development**
-
-	- **Sprint 1** &nbsp; 
-		[Backlog and report](</files/samples/GloriousRecovery/development/Sprint 1 report.pdf>)
-
-	- **Sprint 2** &nbsp; 
-		[Backlog and report](</files/samples/GloriousRecovery/development/Sprint 2 report.pdf>)
-
-	- **Sprint 3** &nbsp; 
-		[Backlog and report](</files/samples/GloriousRecovery/development/Sprint 3 report.pdf>)
-
-	- **Sprint 4** &nbsp; 
-		[Backlog and report](</files/samples/GloriousRecovery/development/Sprint 4 report.pdf>)
-
-- **Transition**
-
-	[Deployment and user manual](</files/samples/GloriousRecovery/transition/User Manual.pdf>)
-
-
-
-&nbsp;
-
-
-
-
 ## Grey-Box Project Symmetry
 
 {{< greybox_logo >}}
@@ -264,6 +214,58 @@ One team of students contributed to an existing project during the Spring 2025 s
 - **Transition**
 
 	[Deployment and user manual](</files/samples/Grey-Box/transition/User and Deployment Manual.pdf>)
+
+
+
+&nbsp;
+
+
+
+
+## Glorious Recovery Event Calendar
+
+{{< glorious_recovery_screenshot_1 >}}
+
+This project was completed in two semesters in 2021. The sample below represents the work done by a team of 4 seniors who worked on this project during the first semester in a Software Engineering course. 
+
+- **Inception**
+
+	[Project proposal](</files/samples/GloriousRecovery/inception/Glorious Recovery project proposal.pdf>)
+
+
+- **Elaboration**
+
+	[Team information sheet](</files/samples/GloriousRecovery/elaboration/Team Info Sheet.pdf>)
+
+	[Project proposal reflection](</files/samples/GloriousRecovery/elaboration/Project proposal reflection.pdf>)
+
+	[System requirements](</files/samples/GloriousRecovery/elaboration/System Requirements.pdf>)
+
+	[Product backlog](</files/samples/GloriousRecovery/elaboration/Product Backlog.pdf>)
+
+	[Development kick-off presentation](</files/samples/GloriousRecovery/elaboration/Development kick-off presentation.pdf>)
+
+
+
+- **Development**
+
+	- **Sprint 1** &nbsp; 
+		[Backlog and report](</files/samples/GloriousRecovery/development/Sprint 1 report.pdf>)
+
+	- **Sprint 2** &nbsp; 
+		[Backlog and report](</files/samples/GloriousRecovery/development/Sprint 2 report.pdf>)
+
+	- **Sprint 3** &nbsp; 
+		[Backlog and report](</files/samples/GloriousRecovery/development/Sprint 3 report.pdf>)
+
+	- **Sprint 4** &nbsp; 
+		[Backlog and report](</files/samples/GloriousRecovery/development/Sprint 4 report.pdf>)
+
+- **Transition**
+
+	[Deployment and user manual](</files/samples/GloriousRecovery/transition/User Manual.pdf>)
+
+
 
 
 
