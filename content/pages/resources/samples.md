@@ -220,13 +220,13 @@ One team of students contributed to an existing project during the Spring 2025 s
 
 	[Team information sheet](</files/samples/Grey-Box/elaboration/team agreement.pdf>)
 
-	[Project proposal reflection](</files/samples/Grey-Box/elaboration/Project proposal reflection.pdf>)
+	[Project proposal reflection](</files/samples/Grey-Box/elaboration/Project Proposal Reflection.pdf>)
 
 	[System requirements](</files/samples/Grey-Box/elaboration/System Requirements.pdf>)
 
 	[Product backlog](</files/samples/Grey-Box/elaboration/Product Backlog.pdf>)
 
-	[Development kick-off presentation](</files/samples/Grey-Box/elaboration/Development kickoff.pdf>)
+	[Development kick-off presentation](</files/samples/Grey-Box/elaboration/Development Kickoff.pdf>)
 
 
 
@@ -235,30 +235,30 @@ One team of students contributed to an existing project during the Spring 2025 s
 	- **Sprint 1** &nbsp; 
 		[Backlog](</files/samples/Grey-Box/development/Sprint1 Backlog.pdf>)
 		 &nbsp; | &nbsp; 
-		[Report](</files/samples/Grey-Box/development/Sprint1 report.pdf>) 
+		[Report](</files/samples/Grey-Box/development/Sprint1 Report.pdf>) 
 		&nbsp; | &nbsp; 
-		[Presentation](</files/samples/Grey-Box/development/Sprint1 retrospective.pdf>)
+		[Presentation](</files/samples/Grey-Box/development/Sprint1 Retrospective.pdf>)
 
 	- **Sprint 2** &nbsp; 
 		[Backlog](</files/samples/Grey-Box/development/Sprint2 Backlog.pdf>)
 		 &nbsp; | &nbsp; 
-		[Report](</files/samples/Grey-Box/development/Sprint2 report.pdf>) 
+		[Report](</files/samples/Grey-Box/development/Sprint2 Report.pdf>) 
 		&nbsp; | &nbsp; 
-		[Presentation](</files/samples/Grey-Box/development/Sprint2 retrospective.pdf>)
+		[Presentation](</files/samples/Grey-Box/development/Sprint2 Retrospective.pdf>)
 
 	- **Sprint 3** &nbsp; 
 		[Backlog](</files/samples/Grey-Box/development/Sprint3 Backlog.pdf>)
 		 &nbsp; | &nbsp; 
-		[Report](</files/samples/Grey-Box/development/Sprint3 report.pdf>) 
+		[Report](</files/samples/Grey-Box/development/Sprint3 Report.pdf>) 
 		&nbsp; | &nbsp; 
-		[Presentation](</files/samples/Grey-Box/development/Sprint3 retrospective.pdf>)
+		[Presentation](</files/samples/Grey-Box/development/Sprint3 Retrospective.pdf>)
 
 	- **Sprint 4** &nbsp; 
 		[Backlog](</files/samples/Grey-Box/development/Sprint4 Backlog.pdf>)
 		 &nbsp; | &nbsp; 
-		[Report](</files/samples/Grey-Box/development/Sprint4 report.pdf>) 
+		[Report](</files/samples/Grey-Box/development/Sprint4 Report.pdf>) 
 		&nbsp; | &nbsp; 
-		[Presentation](</files/samples/Grey-Box/development/Sprint4 retrospective.pdf>)
+		[Presentation](</files/samples/Grey-Box/development/Sprint4 Retrospective.pdf>)
 
 
 - **Transition**
